@@ -1,8 +1,8 @@
 {
   "swagger": "2.0",
   "info": {
-    "title": "Simple API overview",
-    "version": "v2"
+    "title": "LINA API overview",
+    "version": "v1"
   },
   "paths": {
     "/": {
