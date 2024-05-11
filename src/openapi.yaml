@@ -7,8 +7,8 @@
   "paths": {
     "/": {
       "get": {
-        "operationId": "listVersionsv2",
-        "summary": "List API versions",
+        "operationId": "get virtual model list",
+        "summary": "List Get Virtual Model LIst",
         "produces": [
           "application/json"
         ],
